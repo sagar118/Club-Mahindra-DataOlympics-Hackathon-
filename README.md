@@ -1,4 +1,4 @@
-# Club_Mahindra
+# Club Mahindra (DataOlympics Hackathon)
 
 This repository contains the 290th place solution for the Club Mahindra DataOlympics hackathon arranged by AnalyticsVidhya between 3rd May and 5th May, 2019.
 
